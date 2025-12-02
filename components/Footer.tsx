@@ -28,7 +28,8 @@ export default function Footer() {
           <p className="mt-3 text-sm text-gray-600 dark:text-gray-300">
             Gegenstand: Ankauf, Verkauf, Verwaltung und Vermittlung von Immobilien.<br />
             Stammkapital: 25.000,00 EUR<br />
-            Geschäftsführer: Carl-Christoph Schiller (einzelvertretungsberechtigt)
+            Geschäftsführer: Carl-Christoph Schiller (einzelvertretungsberechtigt)<br />
+            USt-IdNr.: DE496071812
           </p>
         </div>
       </div>
