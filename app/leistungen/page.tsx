@@ -5,31 +5,31 @@ const services = [
     title: 'Immobilienankauf',
     description:
       'Wir identifizieren renditestarke Wohn- und Gewerbeimmobilien in Frankfurt und prüfen Substanz, Mietverträge sowie Entwicklungspotenziale, bevor wir ein Angebot abgeben.',
-    image: 'https://images.unsplash.com/photo-1503389152951-9f343605f61e?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://images.pexels.com/photos/3965545/pexels-photo-3965545.jpeg?auto=compress&cs=tinysrgb&w=2000&h=1400&dpr=1',
   },
   {
     title: 'Immobilienverkauf',
     description:
       'Von der marktfähigen Bewertung über die Erstellung aussagekräftiger Exposés bis zur Käuferauswahl – wir orchestrieren den Verkauf diskret und verbindlich.',
-    image: 'https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://images.pexels.com/photos/7031400/pexels-photo-7031400.jpeg?auto=compress&cs=tinysrgb&w=2000&h=1400&dpr=1',
   },
   {
     title: 'Immobilienverwaltung',
     description:
       'Technische und kaufmännische Verwaltung aus einer Hand: Kostenkontrolle, Instandhaltungsplanung, Mieterkommunikation und rechtssichere Abrechnungen.',
-    image: 'https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://images.pexels.com/photos/1989864/pexels-photo-1989864.jpeg?auto=compress&cs=tinysrgb&w=2000&h=1400&dpr=1',
   },
   {
     title: 'Vermittlung',
     description:
       'Wir verbinden seriöse Käufer und Verkäufer, moderieren Verhandlungen und sorgen für klare Entscheidungsgrundlagen inklusive Due-Diligence-Unterstützung.',
-    image: 'https://images.unsplash.com/photo-1529429617124-aee7a16f8bb5?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://images.pexels.com/photos/757888/pexels-photo-757888.jpeg?auto=compress&cs=tinysrgb&w=2000&h=1400&dpr=1',
   },
   {
     title: 'Immobilienberatung',
     description:
       'Standortanalysen, Investment-Strategien und Portfolio-Optimierung mit Fokus auf nachhaltige Erträge im Rhein-Main-Gebiet.',
-    image: 'https://images.unsplash.com/photo-1521791136064-7986c2920216?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://images.pexels.com/photos/3760067/pexels-photo-3760067.jpeg?auto=compress&cs=tinysrgb&w=2000&h=1400&dpr=1',
   },
 ];
 

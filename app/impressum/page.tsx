@@ -46,7 +46,7 @@ export default function ImpressumPage() {
           </p>
           <p>
             <strong>Umsatzsteuer-ID:</strong><br />
-            Wird nachgereicht, sobald erteilt.
+            DE496071812
           </p>
           <p>
             <strong>Berufsrechtliche Hinweise:</strong><br />

@@ -8,4 +8,6 @@ Produktionsreifes Next.js 14 Projekt mit Tailwind CSS für die Alinea Immobilien
 2. Entwicklung starten: `npm run dev`
 3. Produktion bauen: `npm run build`
 
+Für Deployments auf Vercel ist eine `vercel.json` mit festgelegtem Output-Verzeichnis (`.next`) enthalten, sodass der Build korrekt erkannt wird.
+
 Tailwind ist konfiguriert (dark mode via `.dark` Klasse). Layout und Komponenten liegen im `app/`- und `components/`-Verzeichnis.
