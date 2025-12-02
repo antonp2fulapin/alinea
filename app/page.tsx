@@ -1,10 +1,14 @@
 import Image from 'next/image';
 import Link from 'next/link';
 
-const heroImage = 'https://images.unsplash.com/photo-1505692069463-5e3405e3e7ee?auto=format&fit=crop&w=1600&q=80';
-const skylineImage = 'https://images.unsplash.com/photo-1529429617124-aee7a16f8bb5?auto=format&fit=crop&w=1400&q=80';
-const interiorImage = 'https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1400&q=80';
-const consultingImage = 'https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80';
+const heroImage =
+  'https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&w=2400&h=1600&dpr=1';
+const skylineImage =
+  'https://images.pexels.com/photos/220769/pexels-photo-220769.jpeg?auto=compress&cs=tinysrgb&w=2400&h=1600&dpr=1';
+const interiorImage =
+  'https://images.pexels.com/photos/2102587/pexels-photo-2102587.jpeg?auto=compress&cs=tinysrgb&w=2400&h=1600&dpr=1';
+const consultingImage =
+  'https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=2400&h=1600&dpr=1';
 
 export default function HomePage() {
   return (

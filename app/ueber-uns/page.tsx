@@ -1,7 +1,9 @@
 import Image from 'next/image';
 
-const portrait = 'https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=800&q=80';
-const skyline = 'https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1400&q=80';
+const portrait =
+  'https://images.pexels.com/photos/4427816/pexels-photo-4427816.jpeg?auto=compress&cs=tinysrgb&w=1600&h=1600&dpr=1';
+const skyline =
+  'https://images.pexels.com/photos/358443/pexels-photo-358443.jpeg?auto=compress&cs=tinysrgb&w=2400&h=1600&dpr=1';
 
 export const metadata = {
   title: 'Über uns | Alinea Immobilien GmbH',
