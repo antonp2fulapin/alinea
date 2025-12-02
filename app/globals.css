@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  @apply bg-white text-charcoal font-sans antialiased;
+}
+
+a {
+  @apply transition-colors duration-200;
+}
+
+.btn-primary {
+  @apply bg-gold text-white px-6 py-3 rounded-full font-semibold shadow-lg hover:bg-yellow-600;
+}
+
+.btn-secondary {
+  @apply border border-gold text-gold px-6 py-3 rounded-full font-semibold hover:bg-gold hover:text-white;
+}
+
+.section {
+  @apply py-16 md:py-20;
+}
+
+.card {
+  @apply bg-white dark:bg-charcoal/70 shadow-lg rounded-xl p-6 border border-gray-100 dark:border-gray-800;
+}
+
+.dark body {
+  @apply bg-charcoal text-gray-100;
+}
